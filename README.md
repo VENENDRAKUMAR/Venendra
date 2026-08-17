@@ -1,2 +1,58 @@
-# Venendra
-Hi, I'm Venendra Kumar  💼 Technical Recruiter | 4 Years of Closing Hard-to-Fill Roles 🎯 Specialized in Full Stack | AI/ML | IT &amp; Engineering Hiring ✅ 120+ Positions Till  Closed in FY 26 ⚡ Reduced Time-to-Hire by 30% through smarter sourcing 🔍 Expert in Boolean Search | LinkedIn Recruiter | Naukri 🤝 Good Learning Attitude &amp; Aptitude
+# 👋 Hi, I'm Venendra Kumar
+
+> **Technical Recruiter | 4 Years | Full Stack | AI/ML | IT Hiring**
+
+---
+
+## 💼 About Me
+
+I am a results-driven **Technical Recruiter** with 4 years of
+experience hiring top engineering talent across Full Stack,
+AI/ML, DevOps, and IT domains.
+
+I don't just fill positions —
+**I build the teams that build products.**
+
+---
+
+## 📊 My Numbers Speak
+
+| Metric | Achievement |
+|--------|-------------|
+| 🎯 Positions Closed | 120+ in FY 2025 & 2026 |
+| ⚡ Time-to-Hire > Reduced by 30 % |
+| 📅 Experience | 4 Years |
+| 🌍 Hiring Domains | Full Stack, AI/ML, IT Roles |
+
+---
+
+## 🛠️ My Recruiting Toolkit
+
+**Sourcing Platforms:** LinkedIn, Naukri, Refferals
+
+**Skills:**
+- ✅ Boolean Search & Advanced Sourcing
+- ✅ End-to-End Technical Hiring
+- ✅ ATS Management
+- ✅ Stakeholder Management
+- ✅ Candidate Experience & Offer Negotiation
+- ✅ JD Writing & Employer Branding
+- ✅ Full Stack | AI/ML | DevOps | Cloud Hiring
+
+---
+
+## 🎯 What I Specialize In
+
+Frontend → React | Angular | Vue | JavaScript
+Backend → Node.js | Java 
+Full Stack → MERN | MEAN | Django
+AI / ML 
+DevOps → AWS | Azure | GCP | Kubernetes
+
+## 🤝 Let's Connect
+
+I am currently **open to Senior Technical Recruiter,
+TA Lead, and Recruitment Manager opportunities.**
+
+PAN India | Remote | Hybrid — All open.
+
