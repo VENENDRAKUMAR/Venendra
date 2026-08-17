@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Venendra Kumar
 
 > **Technical Recruiter | 4 Years | Full Stack | AI/ML | IT Hiring**
-
+LinkedIn Profile:https://www.linkedin.com/in/venendra-kumar/
 ---
 
 ## 💼 About Me
@@ -51,8 +51,17 @@ DevOps → AWS | Azure | GCP | Kubernetes
 
 ## 🤝 Let's Connect
 
-I am currently **open to Senior Technical Recruiter,
-TA Lead, and Recruitment Manager opportunities.**
+I am currently **open to Collaboration & Senior Technical Recruiter,
+Talent Acquisition Lead, and Recruitment Manager opportunities.
+
 
 PAN India | Remote | Hybrid — All open.
+The right hire changes everything.*
+> *That's why I take every role seriously."*
+>
+> — Venendra Kumar
 
+---
+
+⭐ **Open to Collaborations | Opportunities | Let's Build Great Teams Together**
+Email: venendra@ecoavenstra.com
